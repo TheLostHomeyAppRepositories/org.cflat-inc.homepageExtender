@@ -30,6 +30,12 @@
     "email": "cgHome@cflat-inc.org"
   },
   "homeyCommunityTopicId": 104370,
+  "homepage": "https://gethomepage.dev/",
+  "support": "https://community.athom.com/t/104370",
+  "source": "https://github.com/cgHome/homey.homepageExtender",
+  "bugs": {
+    "url": "https://github.com/cgHome/homey.homepageExtender/issues"
+  },
   "api": {
     "getInfo": {
       "description": "homepage widget status",
